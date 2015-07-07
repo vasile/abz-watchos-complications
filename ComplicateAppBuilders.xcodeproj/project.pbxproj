@@ -12,7 +12,13 @@
 		E1AD5C321B4C0E92000D656B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C301B4C0E92000D656B /* Main.storyboard */; };
 		E1AD5C341B4C0E92000D656B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C331B4C0E92000D656B /* Assets.xcassets */; };
 		E1AD5C371B4C0E92000D656B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C351B4C0E92000D656B /* LaunchScreen.storyboard */; };
-		E1AD5C431B4C1163000D656B /* talks.json in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C421B4C1163000D656B /* talks.json */; };
+		E1AD5C491B4C1DD7000D656B /* TalkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD5C481B4C1DD7000D656B /* TalkTableViewCell.swift */; };
+		E1AD5C4D1B4C2061000D656B /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AD5C4C1B4C2061000D656B /* Data.swift */; };
+		E1AD5C541B4C2540000D656B /* John in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C4F1B4C2540000D656B /* John */; };
+		E1AD5C551B4C2540000D656B /* Michael in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C501B4C2540000D656B /* Michael */; };
+		E1AD5C561B4C2540000D656B /* Oliver in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C511B4C2540000D656B /* Oliver */; };
+		E1AD5C571B4C2540000D656B /* Vasile in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C521B4C2540000D656B /* Vasile */; };
+		E1AD5C581B4C2540000D656B /* Vikram in Resources */ = {isa = PBXBuildFile; fileRef = E1AD5C531B4C2540000D656B /* Vikram */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +29,13 @@
 		E1AD5C331B4C0E92000D656B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1AD5C361B4C0E92000D656B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1AD5C381B4C0E92000D656B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E1AD5C421B4C1163000D656B /* talks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = talks.json; sourceTree = "<group>"; };
+		E1AD5C481B4C1DD7000D656B /* TalkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TalkTableViewCell.swift; sourceTree = "<group>"; };
+		E1AD5C4C1B4C2061000D656B /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Data.swift; path = ../Data.swift; sourceTree = "<group>"; };
+		E1AD5C4F1B4C2540000D656B /* John */ = {isa = PBXFileReference; lastKnownFileType = file; path = John; sourceTree = "<group>"; };
+		E1AD5C501B4C2540000D656B /* Michael */ = {isa = PBXFileReference; lastKnownFileType = file; path = Michael; sourceTree = "<group>"; };
+		E1AD5C511B4C2540000D656B /* Oliver */ = {isa = PBXFileReference; lastKnownFileType = file; path = Oliver; sourceTree = "<group>"; };
+		E1AD5C521B4C2540000D656B /* Vasile */ = {isa = PBXFileReference; lastKnownFileType = file; path = Vasile; sourceTree = "<group>"; };
+		E1AD5C531B4C2540000D656B /* Vikram */ = {isa = PBXFileReference; lastKnownFileType = file; path = Vikram; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +68,10 @@
 		E1AD5C2B1B4C0E92000D656B /* ComplicateAppBuilders */ = {
 			isa = PBXGroup;
 			children = (
-				E1AD5C421B4C1163000D656B /* talks.json */,
+				E1AD5C4E1B4C2538000D656B /* Images */,
 				E1AD5C2C1B4C0E92000D656B /* AppDelegate.swift */,
+				E1AD5C4C1B4C2061000D656B /* Data.swift */,
+				E1AD5C481B4C1DD7000D656B /* TalkTableViewCell.swift */,
 				E1AD5C2E1B4C0E92000D656B /* ViewController.swift */,
 				E1AD5C301B4C0E92000D656B /* Main.storyboard */,
 				E1AD5C331B4C0E92000D656B /* Assets.xcassets */,
@@ -65,6 +79,18 @@
 				E1AD5C381B4C0E92000D656B /* Info.plist */,
 			);
 			path = ComplicateAppBuilders;
+			sourceTree = "<group>";
+		};
+		E1AD5C4E1B4C2538000D656B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				E1AD5C4F1B4C2540000D656B /* John */,
+				E1AD5C501B4C2540000D656B /* Michael */,
+				E1AD5C511B4C2540000D656B /* Oliver */,
+				E1AD5C521B4C2540000D656B /* Vasile */,
+				E1AD5C531B4C2540000D656B /* Vikram */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,10 +150,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1AD5C571B4C2540000D656B /* Vasile in Resources */,
+				E1AD5C581B4C2540000D656B /* Vikram in Resources */,
 				E1AD5C371B4C0E92000D656B /* LaunchScreen.storyboard in Resources */,
-				E1AD5C431B4C1163000D656B /* talks.json in Resources */,
 				E1AD5C341B4C0E92000D656B /* Assets.xcassets in Resources */,
+				E1AD5C561B4C2540000D656B /* Oliver in Resources */,
+				E1AD5C541B4C2540000D656B /* John in Resources */,
 				E1AD5C321B4C0E92000D656B /* Main.storyboard in Resources */,
+				E1AD5C551B4C2540000D656B /* Michael in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +169,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1AD5C2F1B4C0E92000D656B /* ViewController.swift in Sources */,
+				E1AD5C491B4C1DD7000D656B /* TalkTableViewCell.swift in Sources */,
 				E1AD5C2D1B4C0E92000D656B /* AppDelegate.swift in Sources */,
+				E1AD5C4D1B4C2061000D656B /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
