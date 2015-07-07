@@ -1,0 +1,45 @@
+{
+    "talks": [
+    {
+        "speaker": "John",
+        "company": "local",
+        "title": "Welcome",
+        "subtitle": "Quick intro",
+        "start": "19:00"
+    },
+    {
+        "speaker": "Vasile",
+        "company": "local",
+        "title": "What's New In iOS9",
+        "subtitle": "Complications",
+        "start": "19:05"
+    },
+    {
+        "speaker": "Oliver",
+        "company": "love",
+        "title": "Apps With Love",
+        "subtitle": "How do you build ?",
+        "start": "19:15"
+    },
+    {
+        "speaker": "Vikram",
+        "company": "local",
+        "title": "What's New In iOS9",
+        "subtitle": "App Indexing",
+        "start": "19:30"
+    },
+    {
+        "speaker": "Michael",
+        "company": "love",
+        "title": "Apps With Love",
+        "subtitle": "And Deploy ?",
+        "start": "19:45"
+    },
+    {
+        "speaker": "John",
+        "company": "local",
+        "title": "Ending",
+        "subtitle": "Drinks",
+        "start": "19:55"
+    }
+]}
