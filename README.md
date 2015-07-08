@@ -3,10 +3,10 @@ This repository contains the slides and the app used during my talk given at App
 http://www.meetup.com/App-Builders-Zurich/events/223560216/
 
 ### iPhone
-![https://d1ro8r1rbfn3jf.cloudfront.net/ms_43176/Lg35BXfAW5TdNy21fVZbTRo5SPUiqY/sc-iphone.jpg?Expires=1436436440&Signature=mTd-qL7E8hQO11jH3VO1ensDU5yx~yKm0kSZaBBpPe0Xd82KQUci8Z-BCfY1oT6afgGr1d6qbRxXfJnZ9bPhN4y1NEXVWabPx0bx9NGtsEqoHCj8mMFtHW~ZXJSLP4mvYgiCXi0z2RdKQ2DumjBWo~kDvaUyXzqAQl1RnFpWFYVVjMbppg263j5PFomQMEWdQUdlVS6FYOjQhaZkkXsfLD7LNIDMap2XBJygeHaDy-KDocLh2zJv6GBmGx6xbFp8Nlq36fjaXNGVhOnrX2NhOYAU1VpikJw4cDFGUkNMCDQxhLsIil95IYA0KOTJo4mTlpEZh~iHihQJB3BuJAqm0Q__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA](iPhone App)
+![iPhone App](https://api.monosnap.com/rpc/file/download?id=UEr3F8mjlOvt2536FfCWxumx0VdiJS)
 
 ### Watch
-![https://d1ro8r1rbfn3jf.cloudfront.net/ms_43176/JNTEyNn6IRllyLhxj5czjv9cz44OHe/11-49-08.png?Expires=1436436565&Signature=KBxWQgWp59t~yzNoQK7PCm8meV0zDBNGBfFl-TF7WHiGEaxjIDygU-UJ0ppzETHdXXBmkBfOhZfUsS~qY6wMtVPuW9xdcT-hdkRvVuiJYvUaERzKp3y4Mfo6vMAQGdOU29jmK-dxUCubPwLDdN-Whe5WcpR3vsNqvxou2Ef7Gwudg3MEdcw024k5lGWxBxroZkIzX0sWgwn6Mdxu6keAnka~9ahqe3~IyLfdlB7M6lojdgryMxLNJtBU4SSxT3vCpqj7j5WtacaKuj2iJoLrTYJLHkCKE3KtlRY5zOoneQAjCFrF9OipG5K6xP4NPArLl0R9M1V-~PJGWDPIONV0SA__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA](WatchOS App)
+![WatchOS App](https://api.monosnap.com/rpc/file/download?id=5aAIckj6S0yWtgA21TI0RUqoReh1QQ)
 
 ## Slides
 
